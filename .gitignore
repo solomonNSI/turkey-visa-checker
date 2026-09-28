@@ -1,0 +1,8 @@
+state.json
+state.json.tmp
+check.log
+launchd.out.log
+launchd.err.log
+.env
+__pycache__/
+.DS_Store
